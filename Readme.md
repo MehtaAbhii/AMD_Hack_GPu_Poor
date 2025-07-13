@@ -94,8 +94,7 @@ AMD_Hack_GPu_Poor/
 ### Step 1: Clone the Repository
 Clone the project repository from GitHub:
 ```bash
-git clone https://github.com/your-org/meeting-scheduler-agent.git
-cd meeting-scheduler-agent
+git clone https://github.com/MehtaAbhii/AMD_Hack_GPu_Poor.git
 ```
 
 #### Step 2: Create and Activate Virtual Environment
