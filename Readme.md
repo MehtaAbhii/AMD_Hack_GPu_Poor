@@ -83,9 +83,9 @@ AMD_Hack_GPu_Poor/
 </p>
 
 ---
-# Demo
+## Demo
 
-<p align="center"> <a href="assets/3_am-.mp4"><img src="assets/3_am-.gif" alt="Demo GIF" width="600"/></a> </p>
+<p align="center"> <a href="assets/3_am-.mp4"><img src="assets/3_am-.gif" alt="Demo GIF" height="150" width="400"/></a> </p>
 
 ---
 ## ⚙️ Installation & Setup
