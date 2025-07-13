@@ -16,14 +16,15 @@
 1. [Project Overview](#project-overview)  
 2. [High Level Overview](#high-level-overview)
 3. [Project Structure](#)
-3. [Features](#features)  
-4. [Tech Stack & Tools](#tech-stack--tools)  
-5. [Architecture Diagram](#architecture-diagram)  
-6. [Demo](#demo)  
-7. [Installation & Setup](#installation--setup)  
-8. [Configuration](#configuration)  
-9. [Usage](#usage)  
-10. [API Endpoints](#api-endpoint)
+4. [Features](#features)  
+5. [Tech Stack & Tools](#tech-stack--tools)  
+6. [Architecture Diagram](#architecture-diagram)  
+7. [Demo](#demo)  
+8. [Installation & Setup](#installation--setup)  
+9. [Configuration](#configuration)  
+10. [Usage](#usage)  
+11. [API Endpoints](#api-endpoint)
+12. [Contributors]()
 
 ---
 
@@ -163,3 +164,7 @@ Send a POST request to:
 http://localhost:5000/receive
 ```
 
+## 👥 Contributors
+
+- [Param Thakkar](https://github.com/ParamThakkar123)
+- [Abhi Mehta](https://github.com/MehtaAbhii)
