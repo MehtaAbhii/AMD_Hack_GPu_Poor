@@ -79,13 +79,13 @@ AMD_Hack_GPu_Poor/
 ## 🏗 Architecture Diagram
 <!-- Replace with actual diagram -->
 <p align="center">
-  <img src="assets/2.png" alt="High-Level Flow" width="500"/>
+  <img src="assets/2.png" alt="High-Level Flow" height="800" width="500"/>
 </p>
 
 ---
 ## Demo
 
-<p align="center"> <a href="assets/3_am-.mp4"><img src="assets/3_am-.gif" alt="Demo GIF" height="150" width="400"/></a> </p>
+<p align="center"> <a href="assets/3_am-.mp4"><img src="assets/3_am-.gif" alt="Demo GIF" height="400" width="600"/></a> </p>
 
 ---
 ## ⚙️ Installation & Setup
